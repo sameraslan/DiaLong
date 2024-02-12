@@ -1,5 +1,5 @@
-# DiaLong
-![Fig1](https://github.com/sameraslan/DiaLong/assets/82460915/22105a9b-a812-4643-8cfc-1a03effe8a0b)
+# DiaLong: Benchmarking Reminiscence in Long Context Dialogues
+![Screenshot 2024-02-11 at 10 01 18 PM](https://github.com/sameraslan/DiaLong/assets/82460915/0c0e58db-9a81-41b6-8906-2c752ab61eb7)
 
 This repository contains code and data for the DiaLong paper, which introduces a dataset and framework for long-context memory evaluation in Large Language Models.
 
