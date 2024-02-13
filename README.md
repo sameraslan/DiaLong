@@ -1,7 +1,4 @@
 # DiaLong: Benchmarking Reminiscence in Long Context Dialogues
-<p align="center">
-  <img src="https://github.com/sameraslan/DiaLong/assets/82460915/bbee6c88-8b03-4ba2-a84c-e3416a03c841" width=400>
-</p>
 
 This repository contains code and data for the DiaLong paper, which introduces a dataset and framework for long-context memory evaluation in Large Language Models. Download the DiaLong dataset [here](https://github.com/sameraslan/DiaLong/blob/4bcd860ff806e803487262cdd33fd6bcb4cb612c/DiaLong.csv).
 
@@ -14,8 +11,13 @@ Large Language Model (LLM) performance is constrained by limited context length,
 ### Where does DiaLong come in?
 We introduce a novel dataset (DiaLong) and memory benchmark designed to rigorously evaluate the capacity of current LLMs and emerging memory solutions in sustaining and retrieving information across prolonged dialogues, highlighting the necessity for further research to improve LLMs' memory functions for more coherent, accurate, and trustworthy conversational interactions.
 
+Here is an overview of the memory task:
+<p align="center">
+  <img src="https://github.com/sameraslan/DiaLong/assets/82460915/bbee6c88-8b03-4ba2-a84c-e3416a03c841" width=400>
+</p>
+
 ### Access the Dataset
-Please find the DiaLong dataset in the dialong.csv file.
+Please find the DiaLong dataset in the [dialong.csv file](https://github.com/sameraslan/DiaLong/blob/4bcd860ff806e803487262cdd33fd6bcb4cb612c/DiaLong.csv).
 
 ## Run the Code
 For those interested in modifying/extending the dataset or evaluating on their own models, we provide google colab notebooks to create long context conversations with associated true and false facts, create prompts, and evaluate.
