@@ -1,6 +1,9 @@
 # DiaLong: Benchmarking Reminiscence in Long Context Dialogues
 
-This repository contains code and data for the DiaLong paper, which introduces a dataset and framework for long-context memory evaluation in Large Language Models. Download the DiaLong dataset [here]. (https://github.com/sameraslan/DiaLong/blob/4bcd860ff806e803487262cdd33fd6bcb4cb612c/DiaLong.csv). Read the full DiaLong paper [here](https://github.com/user-attachments/files/17085486/DiaLong.Paper.Sep.2024.pdf).
+This repository contains code and data for the DiaLong paper, which introduces a dataset and framework for long-context memory evaluation in Large Language Models. 
+
+📥 Download the DiaLong dataset [here](https://github.com/sameraslan/DiaLong/blob/4bcd860ff806e803487262cdd33fd6bcb4cb612c/DiaLong.csv).\
+📜 Read the full DiaLong paper [here](https://github.com/user-attachments/files/17085486/DiaLong.Paper.Sep.2024.pdf).
 
 ## Introduction
 DiaLong is a dataset of long-context dialogues, parsed into four distinguishable sessions between two users, with an accompanying list of true and false facts about each session. Looking to benchmark your LLM's memory? With DiaLong, it is possible to test a model's ability to actively retain and retrieve information, serving as a critical measure of its memory within extended conversational contexts.
